@@ -1,5 +1,15 @@
 # Python Technical Challenge
 
+# Python Technical Challenge
+
+# Testes
+
+Para executar os testes basta ir na pasta raíz do projeto e  executar:
+
+```sh
+    python -m unittest test/test*
+```
+
 
 ## Question 1
 
